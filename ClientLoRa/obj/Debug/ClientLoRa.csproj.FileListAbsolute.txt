@@ -1,0 +1,10 @@
+C:\Users\Tran Trung Hieu\source\repos\ClientLoRa\ClientLoRa\obj\Debug\ClientLoRa.csprojResolveAssemblyReference.cache
+C:\Users\Tran Trung Hieu\source\repos\ClientLoRa\ClientLoRa\obj\Debug\ClientLoRa.Form1.resources
+C:\Users\Tran Trung Hieu\source\repos\ClientLoRa\ClientLoRa\obj\Debug\ClientLoRa.Properties.Resources.resources
+C:\Users\Tran Trung Hieu\source\repos\ClientLoRa\ClientLoRa\obj\Debug\ClientLoRa.csproj.GenerateResource.Cache
+C:\Users\Tran Trung Hieu\source\repos\ClientLoRa\ClientLoRa\obj\Debug\ClientLoRa.csproj.CoreCompileInputs.cache
+C:\Users\Tran Trung Hieu\source\repos\ClientLoRa\ClientLoRa\bin\Debug\ClientLoRa.exe.config
+C:\Users\Tran Trung Hieu\source\repos\ClientLoRa\ClientLoRa\bin\Debug\ClientLoRa.exe
+C:\Users\Tran Trung Hieu\source\repos\ClientLoRa\ClientLoRa\bin\Debug\ClientLoRa.pdb
+C:\Users\Tran Trung Hieu\source\repos\ClientLoRa\ClientLoRa\obj\Debug\ClientLoRa.exe
+C:\Users\Tran Trung Hieu\source\repos\ClientLoRa\ClientLoRa\obj\Debug\ClientLoRa.pdb
